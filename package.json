@@ -1,0 +1,19 @@
+{
+  "name": "patatap_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "paper-full.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuradiguddaRebecca/Patatap-project.git"
+  },
+  "author": "Rebecca",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GuradiguddaRebecca/Patatap-project/issues"
+  },
+  "homepage": "https://github.com/GuradiguddaRebecca/Patatap-project#readme"
+}
